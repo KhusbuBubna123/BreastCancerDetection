@@ -16,3 +16,14 @@ The features are:
 	10)	concave points_mean: Mean of Cocave Points
 	11)	Symmmetry
 	12)	Fractal dimension  ("coastline approximation" - 1)
+
+	1)Radius: The mean of distances from the center of the cell nucleus to points on the perimeter.
+	2)Texture: The standard deviation of gray-scale values, indicating the uniformity of cell shading.
+	3)Perimeter: The total length of the boundary of the cell nuclei.
+	4)Area: The total size of the area enclosed by the cell nucleus boundary.
+	5)Smoothness: Local variations in radius lengths, measuring how jagged or smooth the cell outline is.
+	6)Compactness: A shape descriptor calculated as \(\frac{\text{perimeter}^2}{\text{area}} - 1.0\).
+	7)Concavity: The severity of indentations or concave portions along the boundary contour.
+	8)Concave Points: The number of distinct concave portions found along the boundary contour.
+	9)Symmetry: A measure of how symmetrical the shape of the cell nucleus is.
+	10)Fractal Dimension: The "coastline approximation" that defines the geometric complexity or irregularity of the 	boundary.
