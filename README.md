@@ -27,3 +27,6 @@ The features are:
 	8)Concave Points: The number of distinct concave portions found along the boundary contour.
 	9)Symmetry: A measure of how symmetrical the shape of the cell nucleus is.
 	10)Fractal Dimension: The "coastline approximation" that defines the geometric complexity or irregularity of the 	boundary.
+
+	We are using different algorithms like K Nearest Neighbors Classifier,Logistic Regression,Support Vector Machine Classifier,Decision Tree Classifier,Random Forest,etc to predict where a tumor is cancerous(Malignant) or 
+	non-cancerous(Benign). We also used Linear Regression to predict the radius worst.
