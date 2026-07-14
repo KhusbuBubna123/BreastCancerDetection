@@ -31,3 +31,19 @@ The features are:
 	We are using different algorithms like K Nearest Neighbors Classifier,Logistic Regression,Support Vector 
 	Machine Classifier,Decision Tree Classifier,Random Forest,etc to predict where a tumor is cancerous(Malignant) 
 	or non-cancerous(Benign). We also used Linear Regression to predict the radius worst.
+
+	The results of classification obtained were as follows:
+	
+	SVC(Support Vector Classifier)-----Accuracy(0.97)----Recall(0.97)----f1_score(0.96)
+	Grid SVC(Using Grid Search)-------Accuracy(0.97)    Recall(0.97)  f1_score(0.96)
+
+	Decision Tree Classifier    Accuracy(0.93)   REcall(0.875)   f1_score(0.923)
+	Using Grid Search Decision Tree Classifier  Accuracy(0.93)  Recall(0.9069)  f1_score(0.9069)
+
+	Random Forest Classifier   Accuracy(0.96)  Recall(0.975)  f1_score(0.952)
+	Gradient Boosting          Accuracy(0.96) Recall(0.9756)   f1_score(0.9523)
+	XGBoost                    Accuracy(0.964)  Recall(0.9756)  f1_score(0.9523)
+
+	K Nearest Neighbors Classifier  Accuracy(0.9649)  Recall(0.95348)  f1_score(0.95348)
+
+	Linear Regression R2 score(0.89722)  Mean Squred Error(0.032489) Root Mean Squared Error(0.18025) Mean Absolute Error(0.12567)
