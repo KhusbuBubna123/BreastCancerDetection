@@ -34,8 +34,8 @@ The features are:
 
 	The results of classification obtained were as follows:
 	
-	SVC(Support Vector Classifier)-----Accuracy(0.97)----Recall(0.97)----f1_score(0.96)
-	Grid SVC(Using Grid Search)-------Accuracy(0.97)    Recall(0.97)  f1_score(0.96)
+	SVC(Support Vector Classifier)    Accuracy(0.97)    Recall(0.97)  f1_score(0.96)
+	Grid SVC(Using Grid Search)       Accuracy(0.97)    Recall(0.97)  f1_score(0.96)
 
 	Decision Tree Classifier    Accuracy(0.93)   REcall(0.875)   f1_score(0.923)
 	Using Grid Search Decision Tree Classifier  Accuracy(0.93)  Recall(0.9069)  f1_score(0.9069)
