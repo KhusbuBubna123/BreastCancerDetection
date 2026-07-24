@@ -1,5 +1,8 @@
 Breast cancer is the most common cancer amongst women in the world. It accounts for 25% of all cancer cases, and affected over 2.1 Million people in 2015 alone. It starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area.
 
+<img width="1378" height="898" alt="BreastCancerAI" src="https://github.com/user-attachments/assets/c3c4fd03-084e-4050-9401-dfb34f3cc3db" />
+
+
 The key challenges against it’s detection is how to classify tumors into malignant (cancerous) or benign(non cancerous). 
 
 The features are:
@@ -45,5 +48,7 @@ The features are:
 	XGBoost                    Accuracy(0.964)  Recall(0.9756)  f1_score(0.9523)
 
 	K Nearest Neighbors Classifier  Accuracy(0.9649)  Recall(0.95348)  f1_score(0.95348)
+	Multilayer Perceptron Accuracy() Recall(), f1_score()<img width="1378" height="898" alt="BreastCancerAI" src="https://github.com/user-attachments/assets/1bf3bb83-6388-4970-95ad-9c753f04aec2" />
+
 
 	Linear Regression R2 score(0.89722)  Mean Squred Error(0.032489) Root Mean Squared Error(0.18025) Mean Absolute Error(0.12567)
