@@ -48,7 +48,7 @@ The features are:
 	XGBoost                    Accuracy(0.964)  Recall(0.9756)  f1_score(0.9523)
 
 	K Nearest Neighbors Classifier  Accuracy(0.9649)  Recall(0.95348)  f1_score(0.95348)
-	Multilayer Perceptron Accuracy() Recall(), f1_score()<img width="1378" height="898" alt="BreastCancerAI" src="https://github.com/user-attachments/assets/1bf3bb83-6388-4970-95ad-9c753f04aec2" />
+	Multilayer Perceptron Accuracy() Recall(), f1_score()
 
 
 	Linear Regression R2 score(0.89722)  Mean Squred Error(0.032489) Root Mean Squared Error(0.18025) Mean Absolute Error(0.12567)
